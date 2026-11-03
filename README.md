@@ -1,16 +1,22 @@
-## Hi there 👋
+### Olá, eu sou a Kamilla Edling! 👋
 
-<!--
-**Kami-Edling/Kami-Edling** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Atualmente atuo como Técnica de Suporte de TI e sou estudante de **Análise e Desenvolvimento de Sistemas** e **Administração**. Sou apaixonada por tecnologia, automação e resolução de problemas práticos.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 💻 Minha Stack Tecnológica
+* **Linguagens e Web:** Python, HTML5, CSS3, JavaScript, Dart
+* **Ferramentas de TI e Suporte:** GLPI, Zendesk, Active Directory, Azure, TeamViewer, AnyDesk, FortiClient VPN, MDT, PXE Boot
+* **Dados e Banco de Dados:** SQL, Excel, Google Sheets, Power BI
+* **Controle de Versão:** Git, GitHub
+
+---
+
+### 🚀 O que estou desenvolvendo
+Estou sempre explorando novas soluções, criando scripts em Python e estudando automações. Alguns dos meus códigos e adaptações podem ser conferidos diretamente nos meus repositórios.
+
+---
+
+### 📫 Onde me encontrar
+* **GitHub:** [Kami-Edling](https://github.com/Kami-Edling)
+* **Localização:** Curitiba, PR - Brasil
