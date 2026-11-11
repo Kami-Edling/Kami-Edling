@@ -5,7 +5,7 @@ Atualmente atuo como Técnica de Suporte de TI e sou estudante de **Análise e D
 ---
 
 ### 💻 Minha Stack Tecnológica
-* **Linguagens e Web:** Python, HTML5, CSS3, JavaScript, Dart
+* **Linguagens e Web:** Python, HTML5, CSS3, JavaScript
 * **Ferramentas de TI e Suporte:** GLPI, Zendesk, Active Directory, Azure, TeamViewer, AnyDesk, FortiClient VPN, MDT, PXE Boot
 * **Dados e Banco de Dados:** SQL, Excel, Google Sheets, Power BI
 * **Controle de Versão:** Git, GitHub
